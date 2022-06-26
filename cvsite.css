@@ -93,7 +93,7 @@ hr{
     color: #ffffff;
 }
 .mountain{
-    padding-top: 80px;
+    padding: 80px auto auto auto;
 }
 .p1{
     font-family: 'Montserrat', sans-serif;
